@@ -1,0 +1,7 @@
+# Ignore compiled executables (common names)
+a.out
+*.o
+my_program
+
+# Ignore debug symbols
+*.dSYM/
